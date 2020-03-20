@@ -1,6 +1,10 @@
 # project specific
 credentials/
 json_altmetrics/
+datasets/Scite_COVID_Dimensions/
+jsons/
+outputs/
+.-bash_profile
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
